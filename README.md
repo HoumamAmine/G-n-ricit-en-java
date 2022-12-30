@@ -1,1 +1,1 @@
-# G-n-ricit-en-java
+# Generics in java
